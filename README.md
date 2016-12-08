@@ -1,10 +1,8 @@
-# Introduction
+# README
 
 ## Bem vindos ao
 ## Tutorial - Python para cientistas naturais
-### Aqui devem seguir a introdução desse material e algumas instruções, de como os usuários devem fazer para:
-* poder ler o tutorial;
-* como usar
-* etc
 
+Aque deve seguir uma introdução sobre o projeto e como usar esse gitbook.
+Link para pdf, epub, etc.
 
