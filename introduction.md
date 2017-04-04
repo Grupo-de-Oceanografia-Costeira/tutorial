@@ -35,16 +35,18 @@ A versão mais popular da UNIX shell é a bash (Bourne Again SHell), que é uma 
 
 <sub>Console do Terminal do OS X. Note o "$" indicando o *prompt*. O Terminal é um programa para executar comandos shell.</sub>
 
-Para quem é averso a essas nerdices, digitar comandos no Terminal é quase como entrar na Matrix, ainda mais se houver um fundo preto e letras verdes fluorescentes. Porém, ele é uma ferramenta informática **básica** para muitas funções, como editar e gerenciar arquivos, executar scripts, acessar servidores remotos e ambientes virtuais, entre outras funções. É imensamente útil sentir-se a vontade utilizando o Terminal, e logo percebe-se isso. Em nosso curso, teremos uma introdução aos comandos básicos do Terminal e aprenderemos como ele será útil no futuro.
+Para quem é averso a essas nerdices, digitar comandos no Terminal é quase como entrar na Matrix, ainda mais se houver um fundo preto e letras verdes fluorescentes. Porém, ele é uma ferramenta informática **básica** para muitas funções, como editar e gerenciar arquivos, executar scripts, acessar servidores remotos e ambientes virtuais, entre outras funções. É imensamente útil sentir-se a vontade utilizando o Terminal, e logo percebe-se o porquê. Em nosso curso, teremos uma introdução aos comandos básicos do Terminal e aprenderemos como ele será útil no futuro.
+
+<sub><sup>1</sup>De agora em diante, quando usarmos esse termo, estamos nos referindo principalmente a biólogos e biólogas, mas também a outros cientistas naturais, como geógrafos, ecólogos, biomédicos, etc, pois compartilham da mesma problemática de utilizarem muito recursos informáticos mas não aprenderem a utiliza-los de forma proveitosa durante a graduação. Cursos como geologia e oceanografia, apesar da aproximação com a física, um campo no qual a informática já é mais difundida na formação, também estão inclusos, pois sua formação costuma compreender conceitos básicos de programação mas sem muito aprofundamento. Normalmente, somente cursos de 'exatas' como ciência da computação, sistemas de informação, física, matemática e algumas engenharias que de fato compreendem conceitos mais nítidos de informática em sua formação, e mesmo assim existem lacunas.</sub>
+
+<sub><sup>2</sup>Aula de shell do Software Carpentry: http://swcarpentry.github.io/shell-novice/</sub>
 
 #### Programar x Desenvolver: utilizando código e lidando com erros
+
+O Terminal é o primeiro ponto da nossa introdução pois ele se tornará o carro-chefe de várias operações que vamos executar. 
 
 #### IDEs: nossa bancada no computador
 
 #### Controle de versão: git e GitHub
 
 #### make, build e Compilação
-
-<sub><sup>1</sup>De agora em diante, quando usarmos esse termo, estamos nos referindo principalmente a biólogos e biólogas, mas também a outros cientistas naturais, como geógrafos, ecólogos, biomédicos, etc, pois compartilham da mesma problemática de utilizarem muito recursos informáticos mas não aprenderem a utiliza-los de forma proveitosa durante a graduação. Cursos como geologia e oceanografia, apesar da aproximação com a física, um campo no qual a informática já é mais difundida na formação, também estão inclusos, pois sua formação costuma compreender conceitos básicos de programação mas sem muito aprofundamento. Normalmente, somente cursos de 'exatas' como ciência da computação, sistemas de informação, física, matemática e algumas engenharias que de fato compreendem conceitos mais nítidos de informática em sua formação, e mesmo assim existem lacunas.</sub>
-
-<sub><sup>2</sup>Aula de shell do Software Carpentry: http://swcarpentry.github.io/shell-novice/</sub>
