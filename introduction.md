@@ -40,12 +40,14 @@ Algo muito comum de acontecer com estudantes no final da graduação ou recém-i
 O R é uma linguagem usada para testes estatísticos, o que explica sua popularidade entre os cientistas naturais. Normalmente essa linguagem é utilizada através do programa do mesmo nome, que apresenta uma *interface de linha de comando* (ou **CLI**, do inglês *command-line interface*), diferente de uma interface **GUI**, uma *graphical user interface*, na qual o usuário clica nos comandos que deseja realizar.
 
 <img src="images/console.png" width="400">
-<sub>Interface típica do R, uma *command-line interface*.</sub>
+<sub>
+Interface típica do R, uma *command-line interface*.</sub>
 
 A interface CLI do R, como é observável na figura, apresenta um *prompt*, identificável pelo símbolo ">" abaixo do texto. Esse *prompt* indica que o programa está pronto para receber um comando digitado pelo usuário. No texto da figura, vemos que podemos escrever, por exemplo, 'help()' para obter ajuda ou 'q()' para sair do R. Nosso foco aqui não é aprender a usar o R ou qualquer linguagem específica (apesar de que vamos ver exemplos de algumas linguagens), mas é fundamental entender o funcionamento da CLI para prosseguirmos no tutorial. **No começo, muitos usuários estranham o uso de uma CLI, porém com o tempo é fácil perceber como ela torna muito mais rápida a entrada de comandos que podem ser usados para diversas funções.**
 
 <img src="images/navigator.png" width="400">
-<sub>Exemplo de uma GUI simples, o Anaconda Navigator.</sub>
+<sub>
+Exemplo de uma GUI simples, o Anaconda Navigator.</sub>
 
 ##### Introduzindo a shell
 "A UNIX shell existe a mais tempo do que muitos de seus usuários. Isto por que ela é uma ferramenta tão poderosa e simples de utilizar, permitindo o usuário executar tarefas complexas com apenas algumas teclas."<sup>1 (Adaptação do autor)</sup>
@@ -53,7 +55,8 @@ A interface CLI do R, como é observável na figura, apresenta um *prompt*, iden
 A versão mais popular da UNIX shell é a bash (Bourne Again SHell), que é uma CLI muito popular entre usuários de Linux através do programa **Terminal**, incorporado ao sistema OS X da Apple. Isto e outras características conferem uma certa similaridade em alguns aspectos desses sistemas operacionais. Há grande chance que você, leitor ou leitora, seja usuário de Windows, pois sua grande popularidade condicionou muitos usuários à o utilizarem durante a vida toda, e sentirem-se desconfortáveis com outro sistema. Mas não se desespere! Se esse for o caso, você ainda pode ~~desinstalar o Windows agora e instalar o Linux~~ baixar uma outra versão do Terminal e fazer as mesmas coisas.
 
 <img src="images/terminal.png" width="400">
-<sub>Console do Terminal do OS X. Note o "$" indicando o *prompt*. O Terminal é um programa para executar comandos bash.</sub>
+<sub>
+Console do Terminal do OS X. Note o "$" indicando o *prompt*. O Terminal é um programa para executar comandos bash.</sub>
 
 Para quem é averso a essas nerdices, digitar comandos no Terminal é quase como entrar na Matrix, ainda mais se houver um fundo preto e letras verdes fluorescentes. Porém, ele é uma ferramenta informática **básica** para muitas funções, como editar e gerenciar arquivos, executar scripts, acessar servidores remotos e ambientes virtuais, entre outras funções. É imensamente útil sentir-se a vontade utilizando o Terminal, e logo percebe-se o porquê. Em nosso curso, teremos uma introdução aos comandos básicos do Terminal e aprenderemos como ele será útil no futuro.
 
@@ -62,7 +65,20 @@ Para quem é averso a essas nerdices, digitar comandos no Terminal é quase como
 ---
 
 ### Programar x Desenvolver
-O Terminal é o primeiro ponto da nossa introdução pois ele se tornará o carro-chefe de várias operações que vamos executar. Quando se fala em "programação" no contexto da informática, muitas pessoas (leigas) pensam logo em códigos complexos e ininteligíveis que irão gerar softwares bonitinhos ou páginas web interativas.
+Quando se fala em "programação" no contexto da informática, muitas pessoas (leigas) pensam logo em códigos complexos e ininteligíveis que irão gerar softwares bonitinhos ou páginas web interativas.
+
+Porém, no sentido estrito das palavra, "programar" se resume basicamente a escrever programas, ou seja, falar para o computador fazer algo. Aprender a programar, portanto, pode ser visto como algo diferente de "desenvolver", que seria de fato todo o processo de *desenvolver* um programa ou aplicação que geralmente é bem mais complexa. Os desenvolvedores (ou "devs"), quando responsáveis pela criação de um software, delineam um processo sistemático de construção do mesmo, que segue os seguintes passos<sup>1</sup>:
+* Requerimentos;
+* Design;
+* Implementação;
+* Verificação;
+* e Manutenção.
+
+Estes passos são complementares e visam proporcionar a melhor funcionalidade do software e também o suporte ao usuário. Este é só um modelo, de vários, de desenvolvimento de software, chamado de "Waterfall", e é particularmente útil para projeto simples nos quais os requerimentos são bem estabelecidos.
+
+Entender os passos desse processo é importante, porém este não é só foco aqui. 
+
+<sub><sup>1</sup>https://www.tutorialspoint.com/sdlc/sdlc_waterfall_model.htm</sub>
 
 #### IDEs: nossa bancada no computador
 
