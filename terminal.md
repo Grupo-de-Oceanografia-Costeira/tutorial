@@ -24,7 +24,7 @@ A versão mais popular da UNIX shell é a bash (Bourne Again SHell), que é uma 
 <sub>
 Console do Terminal do OS X. Note o "$" indicando o *prompt*. O Terminal é um programa para executar comandos bash.</sub>
 
-Para quem é averso a essas nerdices, digitar comandos no Terminal é quase como entrar na Matrix, ainda mais se houver um fundo preto e letras verdes fluorescentes. Porém, ele é uma ferramenta informática **básica** para muitas funções, como editar e gerenciar arquivos, executar scripts, acessar servidores remotos e ambientes virtuais, entre outras funções. É imensamente útil sentir-se a vontade utilizando o Terminal, e logo percebe-se o porquê. Em nosso curso, teremos uma introdução aos comandos básicos do Terminal e aprenderemos como ele será útil no futuro.
+Para quem é averso a essas nerdices, digitar comandos no Terminal é quase como entrar na Matrix, ainda mais se houver um fundo preto e letras verdes fluorescentes. Porém, ele é uma ferramenta informática **básica** para muitas funções, como editar e gerenciar arquivos, executar scripts, acessar servidores remotos e ambientes virtuais, entre outras funções. É imensamente útil sentir-se a vontade utilizando o Terminal, e logo percebe-se o porquê. Agora, veremos um pouco dos comandos básicos do Terminal e como ele será útil no futuro.
 
 <sub><sup>1</sup>[Aula de shell do Software Carpentry](http://swcarpentry.github.io/shell-novice/)</sub>
 
