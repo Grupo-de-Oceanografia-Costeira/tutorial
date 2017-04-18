@@ -2,7 +2,7 @@
 
 Quando se fala em "programação" no contexto da informática, muitas pessoas (leigas) pensam logo em códigos complexos e ininteligíveis que irão gerar softwares bonitinhos ou páginas web interativas.
 
-Porém, no sentido estrito das palavra, "programar" se resume basicamente a escrever programas, ou seja, falar para o computador fazer algo. Aprender a programar, portanto, pode ser visto como algo diferente de "desenvolver", que seria de fato todo o processo de *desenvolver* um programa ou aplicação que geralmente é bem mais complexa. Os desenvolvedores (ou "devs"), quando responsáveis pela criação de um software, delineam um processo sistemático de construção do mesmo, que segue os seguintes passos<sup>1</sup>:
+Porém, no sentido estrito das palavra, "programar" se resume basicamente a escrever programas, ou seja, falar para o computador fazer algo. Aprender a programar, portanto, pode ser visto como algo diferente de "desenvolver", que seria de fato todo o processo de *desenvolver* um programa ou aplicação que geralmente é bem mais complexa. Os desenvolvedores (ou "devs"), quando responsáveis pela criação de um software, delineiam um processo sistemático de construção do mesmo, que segue os seguintes passos<sup>1</sup>:
 
 * Requerimentos;
 * Design;
@@ -10,9 +10,9 @@ Porém, no sentido estrito das palavra, "programar" se resume basicamente a escr
 * Verificação;
 * e Manutenção.
 
-Estes passos são complementares e visam proporcionar a melhor funcionalidade do software e também o suporte ao usuário. Este é só um modelo, de vários, de desenvolvimento de software, chamado de "Waterfall", e é particularmente útil para projeto simples nos quais os requerimentos são bem estabelecidos.
+Estes passos são complementares e visam proporcionar a melhor funcionalidade do software e também o suporte ao usuário. Este é só um modelo, entre vários, de desenvolvimento de software, chamado de "Waterfall", e é particularmente útil para projeto simples nos quais os requerimentos são bem estabelecidos.
 
-Entender os passos desse processo é importante, porém este não é nosso foco aqui. Qualquer um que já teve contato com programação conhece a frustração das inúmeras mensagens de erro, muitas vezes causadas por uma simples vírgula mal-colocada, ou a desolação de sentir-se incapaz de entender os códigos que geram nossos tão-desejados resultados.
+Entender os passos desse processo é importante, porém este não é nosso foco aqui. Qualquer um que já teve contato com programação conhece a frustração das inúmeras mensagens de erro, muitas vezes causadas por uma simples vírgula mal colocada, ou a desolação de sentir-se incapaz de entender os códigos que geram nossos tão-desejados resultados.
 
 <img src="/images/cat.png">
 <sub>De fato, saber programar nos permite fazer várias coisas bacanas.</sub>
