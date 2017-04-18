@@ -27,9 +27,10 @@ Nosso tutorial visa preencher parte desta lacuna. Não focaremos em nenhum lingu
 
 Ao longo dessas seções, vamos entender melhor o processo de *coding*, como podemos começar a escrever códigos para facilitar a nossa vida e como implementar códigos escritos por outros.
 
-[]( Aqui vale um parágrafo pontuando usuários Rwindows (95% de todos os biólogos.
+<!-- ( Aqui vale um parágrafo pontuando usuários Rwindows (95% de todos os biólogos.
 É possível instalar o bash http://www.techtudo.com.br/dicas-e-tutoriais/noticia/2016/04/como-instalar-e-usar-o-shell-bash-do-linux-no-windows-10.html
 A grande questão é mostrar que ele pode utilizar programas linux e se quiser utilizar o próprio CMD (prompt de comando)
+-->
 
 Na primeira seção, **UNIX shell e o Terminal**, aprenderemos sobre este programa, o Terminal, que é uma interface de linha de comando, *command-line interface* ou simplesmente CLI. Este programa é muito básico para diversas tarefas do cotidiano do programador, então abordaremos ele primeiro para facilitar o nosso entendimento, daqui pra frente.
 

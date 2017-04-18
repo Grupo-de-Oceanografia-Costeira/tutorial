@@ -12,8 +12,9 @@ Interface típica do R, uma *command-line interface*.</sub>
 
 A interface CLI do R, como é observável na figura, apresenta um *prompt*, identificável pelo símbolo ">" abaixo do texto. Esse *prompt* indica que o programa está pronto para receber um comando digitado pelo usuário. No texto da figura, vemos que podemos escrever, por exemplo, 'help()' para obter ajuda ou 'q()' para sair do R. Nosso foco aqui não é aprender a usar o R ou qualquer linguagem específica (apesar de que vamos ver exemplos de algumas linguagens), mas é fundamental entender o funcionamento da CLI para prosseguirmos no tutorial. **No começo, muitos usuários estranham o uso de uma CLI, porém com o tempo é fácil perceber como ela torna muito mais rápida a entrada de comandos que podem ser usados para diversas funções.**
 
-[](Penso que seria mais interessante aqui colocar uma imagem do Spyder, ao invés do Anaconda. (talvez possas falar disso no capítulo das IDEs)
-[]( Com o Anaconda Navigator se pode abrir múltiplas GUIs (Rstudio, SPyder, Jupyter, etc).
+<!-- Penso que seria mais interessante aqui colocar uma imagem do Spyder, ao invés do Anaconda. (talvez possas falar disso no capítulo das IDEs)
+Com o Anaconda Navigator se pode abrir múltiplas GUIs (Rstudio, SPyder, Jupyter, etc).
+-->
 
 <img src="images/navigator.png" width="400">
 <sub>
